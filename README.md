@@ -52,9 +52,6 @@ git log
 git cherry-pick
 git revert
 
-## Descripción
-
-Este proyecto tiene como objetivo aprender Git y GitHub mediante el trabajo en equipo.
 
 ## Objetivos como alumno
 
