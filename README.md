@@ -56,7 +56,7 @@ git revert
 
 ## Descripción
 
-Este proyecto tiene como objetivo aplicar un flujo de trabajo colaborativo utilizando Git y GitHub.
+Este proyecto tiene como objetivo aprender Git y GitHub mediante el trabajo en equipo.
 
 ## Objetivos como alumno
 
