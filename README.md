@@ -8,9 +8,7 @@
 
 ## Descripción del proyecto
 
-Este proyecto fue realizado como parte del Trabajo Práctico 2 de IES.
-
-El objetivo es aplicar un flujo de trabajo colaborativo utilizando Git y GitHub, trabajando con repositorios, ramas, commits, Pull Requests, merges, conflictos, cherry-pick y revert.
+Este proyecto tiene como objetivo aprender Git y GitHub mediante un trabajo colaborativo.
 
 ## Objetivos
 
