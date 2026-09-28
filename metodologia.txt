@@ -1,0 +1,8 @@
+Metodologia de trabajo:
+
+1. Crear una rama
+2. realizar modificaciones
+3. crear commits
+4. subir la rama
+5. crear un pull request
+6. revisar e integrar los cambios
