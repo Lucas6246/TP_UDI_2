@@ -53,3 +53,7 @@ git merge
 git log
 git cherry-pick
 git revert
+
+## Descripción
+
+Este proyecto tiene como objetivo aplicar un flujo de trabajo colaborativo utilizando Git y GitHub.
