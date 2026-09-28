@@ -53,3 +53,14 @@ git merge
 git log
 git cherry-pick
 git revert
+
+## Descripción
+
+Este proyecto tiene como objetivo aprender Git y GitHub mediante el trabajo en equipo.
+
+## Objetivos como alumno
+
+- Aprender a utilizar Git.
+- Trabajar colaborativamente con GitHub.
+- Utilizar ramas.
+- Practicar commits, merges y Pull Requests.

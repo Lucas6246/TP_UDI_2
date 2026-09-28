@@ -1,0 +1,6 @@
+Funcionalidades principales:
+
+- Organización mediante ramas.
+- Trabajo colaborativo.
+- Uso de Pull Requests.
+- Integración de cambios.
