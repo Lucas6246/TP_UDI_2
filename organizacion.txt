@@ -1,4 +1,0 @@
-Organizacion del proyecto:
-
-Cada integrante trabaja sobre su propia rama.
-Los cambios se integran mediante Pull Requests.

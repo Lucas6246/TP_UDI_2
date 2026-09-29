@@ -1,6 +1,0 @@
-Requisitos:
-
-- Git instalado.
-- Cuenta de GitHub.
-- Acceso al repositorio.
-- Editor de texto.
