@@ -1,4 +1,0 @@
-utilizar mensajes descriptivos
-trabajar en ramas
-actualizar las ramas antes de crear pull request
-revisar los cambios antes de integrarlos

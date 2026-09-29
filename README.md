@@ -8,7 +8,7 @@
 
 ## Descripción del proyecto
 
-Este proyecto tiene como objetivo aprender Git y GitHub mediante un trabajo colaborativo.
+Este proyecto tiene como objetivo aprender Git y GitHub mediante el trabajo en equipo.
 
 ## Objetivos
 

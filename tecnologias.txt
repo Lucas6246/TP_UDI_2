@@ -1,5 +1,0 @@
-Tecnologias utilizadas:
-
-- Git
-- Github
-- Visual Studio Code
