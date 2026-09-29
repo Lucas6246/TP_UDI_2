@@ -1,0 +1,2 @@
+Configuracion inicial del proyecto.
+El repositorio utiliza una rama principal y ramas de trabajo para cada integrante.

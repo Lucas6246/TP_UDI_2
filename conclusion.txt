@@ -1,0 +1,3 @@
+El uso de git y github permite trabajar
+de manera colaborativa y mantener
+un historial de los cambios
